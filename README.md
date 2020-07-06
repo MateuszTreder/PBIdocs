@@ -11,8 +11,6 @@
 	  - [Step 1: Subheading](#step-1-subheading)
 	  - [Step 2: Subheading](#step-2-subheading)
 	- [Part 2: Heading](#part-2-heading)
-- [Running the App](#running-the-app)
-- [Deployment](#deployment)
 
 
 See [UC Wiki page](https://github.com/MateuszTreder/PBIdocs/wiki/UC)
@@ -22,11 +20,14 @@ See [UC Wiki page](https://github.com/MateuszTreder/PBIdocs/wiki/UC)
 
 Digital twin project MVP#1 is the first phase in creating a digital twin of the Al Shaheen field and is primarily focused around the DA platform. MVP#1 consist of three use cases:
 
-Use Case 1 - Digital twin cockpit - A place to collect all use cases to support cross functional collaboration in addition to a set of dashboards for the Operations Center Manager to support more data driven decisions
+### Use Case 1 - Digital twin cockpit 
+A place to collect all use cases to support cross functional collaboration in addition to a set of dashboards for the Operations Center Manager to support more data driven decisions
 
-Use Case 2 - Integrated production optimisation -  Full field gas lift optimization recommendations for the Onshore Operations Centre and Offshore Operations
+### Use Case 2 - Integrated production optimisation
+Full field gas lift optimization recommendations for the Onshore Operations Centre and Offshore Operations
 
-Use Case 3 - Work order bundling & risk visualisation - Removing waste from maintenance campaign planning through improved visualisation and supporting algorithms, allowing for faster convergence on the ideal plan reducing campaign shutdown time
+### Use Case 3 - Work order bundling & risk visualisation
+Removing waste from maintenance campaign planning through improved visualisation and supporting algorithms, allowing for faster convergence on the ideal plan reducing campaign shutdown time
 
 MVP#1 phase of the project consisted of early stage development of PoC solution for all 3 use cases and took place in winter 2019/2020.
 In the period April 2020 - July 2020, the Scale Up phase of the project took place with the objective for further development of the existing solutions and scaling them across NOC AL Shaheeh field.
@@ -36,15 +37,33 @@ In the period April 2020 - July 2020, the Scale Up phase of the project took pla
 
 The project might have multiple repositories: `master`, `development`, etc. which contain code and documentation for different elements of the project delivery
 
-* `master` contains aggregate code of all branches
-* `development` contains code under development
+### north-oil-company 
 
-Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects:
 
+### noc calculations
+
+### extractor-configs
+
+
+### iam-bootstrap
+
+### transformations
+
+### sap-soap-extractor
+
+### noc-uc2-dashboard
+
+### uc3-data-dumps
+
+### noc-uc2
+
+### grafana-noc
+
+The overall structure of the code repositories is as follows:
 
 ```
 . als-twin
-├── north-oil-company (main project documentation)
+├── north-oil-company 
 |  ├── page1.html
 |  ├── page2.md
 ├── noc calculations
@@ -71,26 +90,6 @@ Other details that need to be given while starting out with the project can be p
 
 ```
 
-```
-	my-app
-	├── README.md
-	├── node_modules
-	├── package.json
-	├── .gitignore
-	├── public
-	│   ├── favicon.ico
-	│   ├── index.html
-	│   └── manifest.json
-	└── src
-		├── App.css
-		├── App.js
-		├── App.test.js
-		├── index.css
-		├── index.js
-		├── logo.svg
-		└── serviceWorker.js
-		└── setupTests.js
-```
 
 ### Tools Required
 
