@@ -20,7 +20,7 @@ See [UC Wiki page](https://github.com/MateuszTreder/PBIdocs/wiki/UC)
 
 Digital twin project MVP#1 is the first phase in creating a digital twin of the Al Shaheen field and is primarily focused around the DA platform. MVP#1 consist of three use cases:
 
-### Use Case 1 - Digital twin cockpit 
+### [Use Case 1 - Digital twin cockpit](https://github.com/MateuszTreder/PBIdocs/wiki/UC)
 A place to collect all use cases to support cross functional collaboration in addition to a set of dashboards for the Operations Center Manager to support more data driven decisions
 
 ### Use Case 2 - Integrated production optimisation
