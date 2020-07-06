@@ -1,20 +1,6 @@
 # Structure of the GitHub ALS project
 
 
-# Project Title
-
-![Mention Version Here](https://img.shields.io/badge/version-v0.0.1-blue)
-![GitHub contributors](https://img.shields.io/github/contributors/madhur-taneja/README-Template)
-![GitHub stars](https://img.shields.io/github/stars/madhur-taneja/README-Template?style=social)
-![GitHub forks](https://img.shields.io/github/forks/madhur-taneja/README-Template?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/madhurtaneja2?style=social)
-
-A template for README files that can be used for your future projects. A small description about the project, shields as well as the link to your repo.
-
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/README-Template)
-
-The project is also hosted on [Github](https://madhur-taneja.github.io/README-Template)
-
 ## Table of Contents
 - [Getting Started](#getting-started)
 	- [Tools Required](#tools-required)
