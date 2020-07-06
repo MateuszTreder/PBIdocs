@@ -18,6 +18,10 @@
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
+
+See [UC Wiki page](https://github.com/MateuszTreder/PBIdocs/wiki/UC)
+
+
 ## Getting Started
 
 The project might have multiple branches: `master`, `development`, etc. which can be explained here
